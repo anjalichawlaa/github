@@ -1,5 +1,3 @@
 devops test proj
 in master branch testing renase
-i'm a developer - Anjali CHawla develop 
-
-testing merge 
+i'm a developer - Anjali CHawla develop
